@@ -13,6 +13,12 @@
 
 
 
+
+
+
+
+
+
 string[] array = new string[] {};
 
 string fromUser = ReadInput("Введите команду: ");
